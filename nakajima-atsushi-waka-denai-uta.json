@@ -1,0 +1,2368 @@
+{
+ "work": "和歌でない歌",
+ "work_id": "nakajima-atsushi-waka-denai-uta",
+ "repo": "kumoi-no-fumigura/nakajima-atsushi-waka-denai-uta",
+ "yomi": "わかでないうた",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "昭和時代",
+  "author": "中島敦",
+  "desc": "中島敦の歌。「遍歴」ほか。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "中島敦全集第二卷",
+   "editor": "入力: 川向直樹、校正: 小林繁雄、門田裕志",
+   "series": "青空文庫",
+   "publisher": "筑摩書房",
+   "year": 1976,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000119/card43043.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はヘーゲルが如萬有をわが體系に統べんともせし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "統",
+     "r": "す"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はアミエルが如つゝましく息をひそめて生きんと思ひし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は若きジイドと諸共に生命に充ちて野をさまよひぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はヘルデルリンと翼竝べギリシャの空を天翔りけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "翼",
+     "r": "はね"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はフィリップのごと小さき町に小さき人々を愛せむと思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小",
+     "r": "ち"
+    },
+    {
+     "a": "小",
+     "r": "ちひ"
+    },
+    {
+     "a": "人々",
+     "r": "ひと"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はラムボーと共にアラビヤの熱き砂漠に果てなむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はゴッホならねど人の耳を喰ひてちぎりて狂はんとせし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は淵明が如疑はずかの天命を信ぜんとせし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "淵明",
+     "r": "えんめい"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は觀念の中に永遠を見んと願ひぬプラトンのごと",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "觀念",
+     "r": "イデア"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はノヷーリスのごと石に花に奇しき祕文を讀まむとぞせし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は人を厭ふと石の上に默もあらまし達磨の如く",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "默",
+     "r": "もだ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は李白の如く醉ひ醉ひて歌ひて世をば終らむと思ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は王維をまねび寂として幽篁の裏にひとりあらなむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寂",
+     "r": "じやく"
+    },
+    {
+     "a": "裏",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はスウィフトと共にこの地球の Yahoo 共をば憎みさげすむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "地球",
+     "r": "ほし"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はヴェルレエヌの如雨の夜の巷に飮みて涙せりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は阮籍がごと白眼に人を睨みて琴を彈ぜむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "阮籍",
+     "r": "げんせき"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はフロイドに行きもろ人の怪しき心理さぐらむとする",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "怪",
+     "r": "あや"
+    },
+    {
+     "a": "心理",
+     "r": "こころ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はゴーガンの如逞ましき野生のいのちに觸ればやと思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "野生",
+     "r": "なま"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はバイロンが如人の世の掟踏躪り呵々と笑はむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "掟",
+     "r": "おきて"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はワイルドが如深き淵に墮ちて嘆きて懺悔せむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はヴィヨンの如く殺め盜み寂しく立ちて風に吹かれなむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "殺",
+     "r": "あや"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はボードレエルがダンディズム昂然として道行く心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はアナクレオンとピロンのみ語るに足ると思ひたりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はパスカルの如心いため弱き蘆をば讚め憐れみき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "讚",
+     "r": "ほ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はカザノヷのごとをみな子の肌をさびしく尋め行く心",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尋",
+     "r": "と"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は老子のごとくこれの世の玄のまた玄空しと見つる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はゲエテ仰ぎて吐息しぬ亭々としてあまりに高し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は夕べの鳥と飛び行きて雲のはたてに消えなむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はストアの如くわが意志を鍛へんとこそ奮ひ立ちしか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は其角の如く夜の街に小傾城などなぶらん心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は人麿のごと玉藻なすよりにし妹をめぐしと思ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はバッハの如く安らけくたゞ藝術に向はむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はティチアンのごと百年の豐けきいのち生きなむ心",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "百年",
+     "r": "ももとせ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はクライストの如われとわが生命を燃して果てなむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は眼・耳・心みな閉ぢて冬蛇のごと眠らむ心",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    },
+    {
+     "a": "冬蛇",
+     "r": "ふゆへび"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はバルザックの如コーヒーを飮みて猛然と書きたき心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は巣父の如く俗説を聞きてし耳を洗はむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は西行がごと家をすて道を求めてさすらはむ心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は年老い耳も聾ひにけるベートーベンを聞きて泣きけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "聾",
+     "r": "し"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は心咎めつゝ我の中のイエスを逐ひぬピラトの如く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はアウグスティンが灼熱の意慾にふれて燒かれむとしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はパオロに降りし神の聲我にもがもとひたに祈りき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "降",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は安逸の中ゆ仰ぎ見るカントの「善」の嚴くしかりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "嚴",
+     "r": "いつ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は整然として澄みとほるスピノザに來て眼をみはりしか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はヷレリイ流に使ひたる悟性の鋭き刃身をきずつけし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鋭",
+     "r": "と"
+    },
+    {
+     "a": "刃",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はモツァルトのごと苦しみゆ明るき藝術を生まばやと思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "藝術",
+     "r": "もの"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は聰明と愛と諦觀をアナトオル・フランスに學ばんとせし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はスティヴンソンが美しき夢に分け入り醉ひしれしこと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はドオデェと共にプロヷンスの丘の日向に微睡みにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "日向",
+     "r": "ひなた"
+    },
+    {
+     "a": "微睡",
+     "r": "まどろ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は大雅堂を見て陶然と身も世も忘れ立ちつくしけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は山賊多きコルシカの山をメリメとへめぐる心地",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は繩目解かむともがきゐるプロメシュウスと我をあはれむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はツァラツストラと山に行き眼鋭るどの鷲と遊びき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "まなこ"
+    },
+    {
+     "a": "鋭",
+     "r": "す"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はファウスト博士が教へける「行爲によらで汝は救はれじ」",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "行爲",
+     "r": "タート"
+    },
+    {
+     "a": "汝",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "遍歴りていづくにか行くわが魂ぞはやも三十に近しといふを",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遍歴",
+     "r": "へめぐ"
+    },
+    {
+     "a": "魂",
+     "r": "たま"
+    },
+    {
+     "a": "三十",
+     "r": "みそぢ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "憐れみ讚ふるの歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬばたまの宇宙の闇に一ところ明るきものあり人類の文化",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "玄々たる太沖の中に一ところ温かきものありこの地球の上に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "玄々",
+     "r": "げんげん"
+    },
+    {
+     "a": "太沖",
+     "r": "たいちゆう"
+    },
+    {
+     "a": "温",
+     "r": "あたた"
+    },
+    {
+     "a": "地球",
+     "r": "ほし"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おしなべて暗昧きが中に燦然と人類の叡智光るたふとし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "暗昧",
+     "r": "くら"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この地球の人類の文化の明るさよ背後の闇に浮出て美し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "地球",
+     "r": "ほし"
+    },
+    {
+     "a": "人類",
+     "r": "ひと"
+    },
+    {
+     "a": "背後",
+     "r": "そがひ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たとふれば鑛脈にひそむ琅玕か愚昧の中に叡智光れる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鑛脈",
+     "r": "くわうみやく"
+    },
+    {
+     "a": "琅玕",
+     "r": "らうかん"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幾萬年人生れ繼ぎて築きてしバベルの塔の崩れむ日はも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "生",
+     "r": "あ"
+    },
+    {
+     "a": "築",
+     "r": "きづ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間の夢も愛情も亡びなむこの地球の運命かなしと思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "愛情",
+     "r": "なさけ"
+    },
+    {
+     "a": "地球",
+     "r": "ほし"
+    },
+    {
+     "a": "運命",
+     "r": "さだめ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "學問や藝術や叡智や戀愛情この美しきもの亡びむあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "藝術",
+     "r": "たくみ"
+    },
+    {
+     "a": "叡智",
+     "r": "ちゑ"
+    },
+    {
+     "a": "戀愛情",
+     "r": "こひなさけ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつか來む滅亡知れれば人間の生命いや美しく生きむとするか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "滅亡",
+     "r": "ほろび"
+    },
+    {
+     "a": "人間",
+     "r": "ひと"
+    },
+    {
+     "a": "生命",
+     "r": "いのち"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みづからの運命知りつゝなほ高く上らむとする人間よ切なし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "運命",
+     "r": "さだめ"
+    },
+    {
+     "a": "上",
+     "r": "のぼ"
+    },
+    {
+     "a": "人間",
+     "r": "ひと"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "弱き蘆弱きがまゝに美しく伸びんとするを見れば切なしや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人類の滅亡の前に凝然と懼れはせねど哀しかりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "滅亡",
+     "r": "ほろび"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しかすがになほ我はこの生を愛す喘息の夜の苦しかりとも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あるがまゝ醜きがまゝに人生を愛せむと思ふ他に途なし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "他",
+     "r": "ほか"
+    },
+    {
+     "a": "途",
+     "r": "みち"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ありのまゝこの人生を愛し行かむこの心よしと頷きにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我は知るゲエテ・プラトン惡しき世に美しき生命生きにけらずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "惡",
+     "r": "あ"
+    },
+    {
+     "a": "生命",
+     "r": "いのち"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "吃として霜柱踏みて思ふこと電光影裡如何に生きむぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "吃",
+     "r": "きつ"
+    },
+    {
+     "a": "電光影裡",
+     "r": "でんくわうえいり"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石とならまほしき夜の歌　八首",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石となれ石は怖れも苦しみも憤りもなけむはや石となれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "憤",
+     "r": "いか"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我はもや石とならむず石となりて冷たき海を沈み行かばや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "氷雨降り狐火燃えむ冬の夜にわれ石となる黒き小石に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼瞑づれば氷の上を風が吹く我は石となりて轉びて行くを",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    },
+    {
+     "a": "瞑",
+     "r": "と"
+    },
+    {
+     "a": "轉",
+     "r": "まろ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "腐れたる魚のまなこは光なし石となる日を待ちて我がゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚",
+     "r": "うを"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たまきはるいのち寂しく見つめけり冷たき星の上にわれはゐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あな暗や冷たき風がゆるく吹く我は墮ち行くも隕石のごと",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "暗",
+     "r": "くら"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なめくぢか蛭のたぐひかぬばたまの夜の闇處にうごめき哂ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "闇處",
+     "r": "くらど"
+    },
+    {
+     "a": "哂",
+     "r": "わら"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "また同じき夜によめる歌　二首",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひたぶるに凝視めてあれば卒然として距離の觀念失くなりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "凝視",
+     "r": "みつ"
+    },
+    {
+     "a": "卒然",
+     "r": "そつぜん"
+    },
+    {
+     "a": "失",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大小も遠近もなくほうけたり未生の我や斯くてありけむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大小",
+     "r": "だいせう"
+    },
+    {
+     "a": "遠近",
+     "r": "ゑんきん"
+    },
+    {
+     "a": "未生",
+     "r": "みしやう"
+    },
+    {
+     "a": "我",
+     "r": "われ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夢",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何者か我に命じぬ割り切れぬ數を無限に割りつゞけよと",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "割",
+     "r": "わ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無限なる循環小數いでてきぬ割れども盡きず恐しきまで",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無限なる空間を墮ちて行きにけり割り切れぬ數の呪を負ひて",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "墮",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我が聲に驚き覺めぬ冬の夜のネルの寢衣に汗のつめたさ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寢衣",
+     "r": "ねまき"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無限てふことの恐こさ夢さめてなほ暫らくを心慄へゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "恐",
+     "r": "かし"
+    },
+    {
+     "a": "暫",
+     "r": "しま"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この夢は幼き時ゆいくたびかうなされし夢恐しき夢",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今思へば夢の中にてこの夢を馴染の夢と知れりし如し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "思",
+     "r": "も"
+    },
+    {
+     "a": "馴染",
+     "r": "なじみ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニイチェもかゝる夢見て思ひ得しかツァラツストラが永劫囘歸",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "むかしわれ翅をもぎける蟋蟀が夢に來りぬ人の言葉きゝて",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "翅",
+     "r": "はね"
+    },
+    {
+     "a": "蟋蟀",
+     "r": "こほろぎ"
+    },
+    {
+     "a": "言葉",
+     "r": "くち"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何故か生埋にされ叫べども喚けど呼べど人は來らず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "何故",
+     "r": "なにゆゑ"
+    },
+    {
+     "a": "喚",
+     "r": "わめ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "叫べども人は來らず暗闇に足の方より腐り行く夢",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "暗闇",
+     "r": "くらやみ"
+    },
+    {
+     "a": "方",
+     "r": "かた"
+    },
+    {
+     "a": "腐",
+     "r": "くさ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夢さめて再び眠られぬ時よめる歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何處やらに魚族奴等が涙する燻製にほふ夜半は乾きて",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "何處",
+     "r": "どこ"
+    },
+    {
+     "a": "魚族奴等",
+     "r": "いろくづめら"
+    },
+    {
+     "a": "燻製",
+     "r": "くんせい"
+    },
+    {
+     "a": "夜半",
+     "r": "よは"
+    },
+    {
+     "a": "乾",
+     "r": "かわ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "放歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我が歌は拙なかれどもわれの歌他びとならぬこのわれの歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "拙",
+     "r": "つた"
+    },
+    {
+     "a": "他",
+     "r": "こと"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我が歌はをかしき歌ぞ人麿も憶良もいまだ得詠まぬ歌ぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "詠",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我が歌は短册に書く歌ならず街を往きつゝメモに書く歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "往",
+     "r": "ゆ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は腹の醜物朝泄ると厠の窓の下に詠む歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "醜物",
+     "r": "しこもの"
+    },
+    {
+     "a": "朝",
+     "r": "あさ"
+    },
+    {
+     "a": "泄",
+     "r": "ま"
+    },
+    {
+     "a": "厠",
+     "r": "かはや"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は吾が遠つ祖サモスなるエピクロス師にたてまつる歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遠",
+     "r": "とほ"
+    },
+    {
+     "a": "祖",
+     "r": "おや"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は天子呼べども起きぬてふ長安の酒徒に示さむ歌ぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は冬の夕餐の後にして林檎食しつゝよみにける歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夕餐",
+     "r": "ゆふげ"
+    },
+    {
+     "a": "後",
+     "r": "のち"
+    },
+    {
+     "a": "食",
+     "r": "を"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は朝の瓦斯にモカとジャヷのコーヒー煮つゝよみにける歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朝",
+     "r": "あした"
+    },
+    {
+     "a": "瓦斯",
+     "r": "ガス"
+    },
+    {
+     "a": "煮",
+     "r": "に"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌はアダリンきかずいねられぬ小夜更床によみにける歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小夜更床",
+     "r": "さよふけどこ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は呼吸迫りきて起きいでし曉の光に書きにける歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "呼吸",
+     "r": "いき"
+    },
+    {
+     "a": "曉",
+     "r": "あけ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌は麻痺劑強みヅキ／＼と痛む頭に浮かびける歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌はわが胸の邊の喘鳴をわれと聞きつゝよみにける歌",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "邊",
+     "r": "へ"
+    },
+    {
+     "a": "喘鳴",
+     "r": "ぜんめい"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "身體の弱きに甘えふやけゐるわれの心を蹴らむとぞ思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "身體",
+     "r": "うつそみ"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手・足・眼とみな失ひて硝子箱に生きゐる人もありといはずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "手",
+     "r": "て"
+    },
+    {
+     "a": "足",
+     "r": "あし"
+    },
+    {
+     "a": "眼",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゲエテてふ男思へば面にくし口惜しけれどもたふとかりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "男",
+     "r": "をとこ"
+    },
+    {
+     "a": "面",
+     "r": "つら"
+    },
+    {
+     "a": "口惜",
+     "r": "くや"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "纖く勁く太く艶ある彼の聲の如き心をもたむとぞ思ふ　（シャリアーピンを聞きて）",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "纖",
+     "r": "ほそ"
+    },
+    {
+     "a": "勁",
+     "r": "つよ"
+    },
+    {
+     "a": "彼",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "nakajima-atsushi-waka-denai-uta-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "",
+   "bu": "",
+   "dai": "遍歴",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゴッホの眼モツァルトの耳プラトンの心兼ねてむ人はあらぬか",
+   "sachu": "",
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "nakajima-atsushi-waka-denai-uta",
+  "work": "和歌でない歌",
+  "yomi": "わかでないうた",
+  "category": "近代歌集",
+  "era": "昭和時代",
+  "author": "中島敦",
+  "kind": "kashu",
+  "blocks": 117,
+  "chars": 2950,
+  "poems": 117,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-22",
+  "updated_at": "2026-11-22T02:24:36+09:00"
+ }
+}
